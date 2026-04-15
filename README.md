@@ -1,4 +1,3 @@
-## Título
 **Fundamentos teóricos do raciocínio hipergráfico e sua relação com *world models***
 
 ## Resumo
@@ -44,7 +43,6 @@ Essa formulação é particularmente fecunda para *world models*, porque tais mo
 Conclui-se que a articulação entre matemática computacional, hipergrafos e *Hypergraph-of-Thought* constitui um programa teórico promissor para a compreensão de *world models* em ambientes complexos. A principal contribuição deste relatório é demonstrar que a formalização hipergráfica oferece base conceitual robusta para representar relações não binárias, inferências distribuídas e estruturas semânticas de alta ordem. Em um plano mais amplo, essa perspectiva reforça o potencial da matemática computacional como campo de mediação entre formalismo, representação e inteligência. [library.oapen](https://library.oapen.org/bitstream/id/13b6d706-7ad5-4880-914d-3a8f03719f58/978-981-99-0185-2.pdf)
 
 ## Referências
-**ABNT NBR 6023**
 - LONGDOM. *Hypergraph products in computational mathematics: theory and applications*. 2024. Disponível em: https://www.longdom.org/articles/hypergraph-products-in-computational-mathematics-theory-and-applications-1099979.html. Acesso em: 15 abr. 2026.
 - OAPEN. *Hypergraph computation*. 2023. Disponível em: https://library.oapen.org/bitstream/id/13b6d706-7ad5-4880-914d-3a8f03719f58/978-981-99-0185-2.pdf. Acesso em: 15 abr. 2026.
 - SCIENCEDIRECT. *Hypergraph computation*. 2024. Disponível em: https://www.sciencedirect.com/science/article/pii/S2095809924002510. Acesso em: 15 abr. 2026.
